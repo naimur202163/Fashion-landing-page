@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-
+import "./BannerImg.css";
 const BannerImg = () => {
   return (
     <div>
@@ -24,7 +24,9 @@ const BannerImg = () => {
         <div>
           <Row>
             <Col>
-              <div></div>
+              <div className="bg-img1">
+                <h3>Helllo</h3>
+              </div>
             </Col>
             <Col>
               <div></div>
