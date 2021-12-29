@@ -26,7 +26,7 @@ const Banner = () => {
                     <Col md={4} lg={4}> <div style={{ width: "100%" }}><img src={sideImge3} alt="" /> </div> </Col>
                     <Col md={3} lg={3}><div> <img style={{ width: "330px", height: '302px' }} src={sideImge4} alt="" /></div> </Col>
                     <Col md={2} lg={2}><div>< img style={{ width: '249px', height: '302px' }} src={sideImge5} alt="" /></div>
-
+                        <div></div>
                     </Col>
                 </Row>
             </Container>
