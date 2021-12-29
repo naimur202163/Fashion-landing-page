@@ -3,3 +3,22 @@
     height: 228px;
     background-repeat: no-repeat;
 }
+
+.bg-img2{
+    background-image: url('../../Images/Mask\ Group5.png');
+    height: 228px;
+    background-repeat: no-repeat;
+}
+.bg-img3{
+    background-image: url('../../Images/Mask\ Group3.png');
+    height: 228px;
+    background-repeat: no-repeat;
+}
+.bg-img4{
+    background-image: url('../../Images/Mask\ Group.png');
+    height: 228px;
+    background-repeat: no-repeat;
+}
+.img-container{
+    margin-top: 50px;
+}
