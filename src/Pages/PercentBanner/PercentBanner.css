@@ -1,0 +1,12 @@
+
+.bg-img{
+   background-image: url('../../Images/Rectangle\ 66.png');     
+}
+
+.flex-container {
+  display: flex;
+ 
+}
+.itmes{
+    margin-right: 300px
+}

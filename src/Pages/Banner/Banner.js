@@ -17,7 +17,7 @@ const Banner = () => {
                         <div><img style={{ width: "550px", height: '278px' }} src={sideImge} alt="" /> </div>
                     </Col>
                     <Col md={2} lg={2}> <div><img src={sideImge1} alt="" /> </div> </Col>
-                    <Col md={5} lg={5}> <div><img src={sideImge2} alt="" /></div> </Col>
+                    <Col md={5} lg={5}> <div><img style={{ width: '526px', height: '278px' }} src={sideImge2} alt="" /></div> </Col>
                 </Row>
                 {/* Scound Row */}
                 <Row>
@@ -25,7 +25,7 @@ const Banner = () => {
                         <img src={sideImge6} alt="" />  </Col>
                     <Col md={4} lg={4}> <div style={{ width: "100%" }}><img src={sideImge3} alt="" /> </div> </Col>
                     <Col md={3} lg={3}><div> <img style={{ width: "330px", height: '302px' }} src={sideImge4} alt="" /></div> </Col>
-                    <Col md={2} lg={2}><div>< img style={{ width: '249px', height: '302px' }} src={sideImge5} alt="" /></div>
+                    <Col md={2} lg={2}><div>< img style={{ width: '195px', height: '302px' }} src={sideImge5} alt="" /></div>
                         <div></div>
                     </Col>
                 </Row>
