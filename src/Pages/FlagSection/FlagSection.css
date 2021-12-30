@@ -1,0 +1,17 @@
+.box-items{
+        background-color: #E4BFA4;
+        height: 42px;
+        width: 190px;
+}
+.flex-containerr{
+    margin-top: 20px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap:12px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.text{
+    margin-left: 5rem;
+}
