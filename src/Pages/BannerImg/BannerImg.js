@@ -24,22 +24,22 @@ const BannerImg = () => {
         <div className="img-container">
           <Row>
             <Col>
-              <div className="bg-img1"> </div>
+              <div className="bg-imgg1"> </div>
             </Col>
             <Col>
-              <div className="bg-img2"></div>
+              <div className="bg-imgg2"></div>
             </Col>
             <Col>
-              <div className="bg-img3"></div>
+              <div className="bg-imgg3"></div>
             </Col>
             <Col>
-              <div className="bg-img4"></div>
+              <div className="bg-imgg4"></div>
             </Col>
             <Col>
-              <div className="bg-img3"></div>
+              <div className="bg-imgg3"></div>
             </Col>
             <Col>
-              <div className="bg-img2"></div>
+              <div className="bg-imgg2"></div>
             </Col>
           </Row>
         </div>

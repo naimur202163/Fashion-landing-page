@@ -1,0 +1,55 @@
+.shadow{
+    box-shadow: 10px 5px 5px red;
+}
+
+.bg-img1{
+    background-image: url('https://i.ibb.co/xqgJpS9/Mask-Group-1.png');
+    height: 228px;
+    background-repeat: no-repeat;
+}
+
+.bg-img2{
+    background-image: url('https://i.ibb.co/S5s7MG8/Group.png');
+    height: 228px;
+    background-repeat: no-repeat;
+    margin: 2.6rem;
+    margin-top: 4rem;
+    width: 70%;
+}
+.bg-img3{
+    background-image: url('https://i.ibb.co/WzPWjr8/Mask-Group-1.png');
+    height: 228px;
+    background-repeat: no-repeat;
+}
+.bg-img4{
+    background-image: url('https://i.ibb.co/J3FQwRq/Mask-Group-1.png');
+    height: 228px;
+    background-repeat: no-repeat;
+}
+.bg-img5{
+    background-image: url('https://i.ibb.co/dQJ4QTs/Mask-Group-1.png');
+    height: 228px;
+    background-repeat: no-repeat;
+}
+.bg-img6{
+    background-image: url('https://i.ibb.co/Ph2Mrpt/Mask-Group-1.png');
+    height: 228px;
+    background-repeat: no-repeat;
+}
+.bg-img7{
+    background-image: url('https://i.ibb.co/SQ9Ngbv/Mask-Group-1.png');
+    height: 228px;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+.img-container{
+    margin-top: 50px;
+}

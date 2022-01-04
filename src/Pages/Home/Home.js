@@ -5,6 +5,7 @@ import FlagSection from "../FlagSection/FlagSection";
 import Footer from "../Footer/Footer";
 import LookBook from "../LookBook/LookBook";
 import Lorem from "../Lorem/Lorem";
+import OurStyle from "../OurStyle/OurStyle";
 import Testominal from "../Testominal/Testominal";
 import PercentBanner from "./../PercentBanner/PercentBanner";
 
@@ -15,6 +16,7 @@ const Home = () => {
       <PercentBanner />
       <BannerImg />
       <FlagSection />
+      <OurStyle />
       <Testominal />
       <Lorem />
       <Footer />
