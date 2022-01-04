@@ -3,7 +3,7 @@ import { Button, Container } from "react-bootstrap";
 
 const Lorem = () => {
   return (
-    <div>
+    <div style={{ marginTop: "6rem" }}>
       <Container style={{ backgroundColor: "#E4BFA4" }}>
         <div>
           <h2 className="text-center  pt-4" style={{ marginBottom: "100px" }}>

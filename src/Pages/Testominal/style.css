@@ -1,0 +1,22 @@
+
+.testIimg{
+      display: block;
+  margin-left: auto;
+  margin-right: auto;   
+  border-radius: 50%;
+  height: 400px;
+
+}
+.imgDiv{
+       position: relative;
+}
+.divText{
+    margin-top: 8rem;
+}
+.Logo{
+    margin-left: 25rem;
+}
+.Testimonials{
+    margin-left: 3rem;
+    padding:1rem ;
+}

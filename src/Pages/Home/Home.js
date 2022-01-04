@@ -5,6 +5,7 @@ import FlagSection from "../FlagSection/FlagSection";
 import Footer from "../Footer/Footer";
 import LookBook from "../LookBook/LookBook";
 import Lorem from "../Lorem/Lorem";
+import Testominal from "../Testominal/Testominal";
 import PercentBanner from "./../PercentBanner/PercentBanner";
 
 const Home = () => {
@@ -14,7 +15,7 @@ const Home = () => {
       <PercentBanner />
       <BannerImg />
       <FlagSection />
-      <LookBook />
+      <Testominal />
       <Lorem />
       <Footer />
     </div>

@@ -66,10 +66,7 @@ const Footer = () => {
                 <Col lg={6}>
                   <Row>
                     <Col lg={3}>
-                      <i
-                        style={{ width: "1re" }}
-                        class="fab fa-linkedin fa-2x"
-                      ></i>
+                      <i class="fab fa-linkedin fa-2x"></i>
                     </Col>
                     <Col lg={3}>
                       <i class="fab fa-twitter-square fa-2x"></i>
