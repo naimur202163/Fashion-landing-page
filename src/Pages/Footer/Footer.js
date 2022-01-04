@@ -61,11 +61,29 @@ const Footer = () => {
               />
             </div>
             {/* Social Icon */}
-            <div>
-              <i style={{ width: "1re" }} class="fab fa-linkedin"></i>
-              <i class="fab fa-facebook-square"></i>
-              <i class="fab fa-twitter-square"></i>
-              <i class="fab fa-instagram-square"></i>
+            <div style={{ marginLeft: "2.4rem" }}>
+              <Row>
+                <Col lg={6}>
+                  <Row>
+                    <Col lg={3}>
+                      <i
+                        style={{ width: "1re" }}
+                        class="fab fa-linkedin fa-2x"
+                      ></i>
+                    </Col>
+                    <Col lg={3}>
+                      <i class="fab fa-twitter-square fa-2x"></i>
+                    </Col>
+                    <Col lg={3}>
+                      <i class="fab fa-instagram-square fa-2x"></i>
+                    </Col>
+                    <Col lg={3}>
+                      <i class="fab fa-facebook-square fa-2x"></i>
+                    </Col>
+                  </Row>
+                </Col>
+                <Col lg={4}></Col>
+              </Row>
             </div>
           </Col>
         </Row>
