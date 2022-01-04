@@ -1,6 +1,6 @@
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-
 const Footer = () => {
   return (
     <div>
@@ -40,9 +40,33 @@ const Footer = () => {
             </div>
           </Col>
           <Col lg={4}>
-            <p style={{ color: "#fff" }} className="text-center ">
+            <p
+              style={{
+                color: "#fff",
+                marginTop: "30px",
+                color: "#919191",
+                fontSize: "1.5rem",
+              }}
+              className="text-center "
+            >
               Lorem Ipsum is simply dummy
             </p>
+            <div class="mb-3">
+              <input
+                style={{ width: "80%", marginLeft: "2.6rem" }}
+                type="text"
+                class="form-control"
+                id="formGroupExampleInput"
+                placeholder="Enter Your Email"
+              />
+            </div>
+            {/* Social Icon */}
+            <div>
+              <i style={{ width: "1re" }} class="fab fa-linkedin"></i>
+              <i class="fab fa-facebook-square"></i>
+              <i class="fab fa-twitter-square"></i>
+              <i class="fab fa-instagram-square"></i>
+            </div>
           </Col>
         </Row>
       </Container>
