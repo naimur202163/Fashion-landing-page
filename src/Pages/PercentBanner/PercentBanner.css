@@ -10,3 +10,12 @@
 .itmes{
     margin-right: 300px
 }
+.box{
+  height: 257px;
+  border: 2px solid green;
+  width: 70%;
+  position: absolute;
+  margin: auto;
+  margin-top: 3rem;
+ margin-left: 7rem;
+}
