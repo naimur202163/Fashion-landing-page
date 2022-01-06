@@ -32,9 +32,7 @@ const Testominal = () => {
                       <Col lg={3}>
                         <i class="fab fa-twitter-square fa-2x"></i>
                       </Col>
-                      <Col lg={3}>
-                        <i class="fab fa-instagram-square fa-2x"></i>
-                      </Col>
+
                       <Col lg={3}>
                         <i class="fab fa-facebook-square fa-2x"></i>
                       </Col>

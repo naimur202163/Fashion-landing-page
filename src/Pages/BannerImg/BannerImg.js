@@ -5,9 +5,9 @@ const BannerImg = () => {
   return (
     <div>
       <Container>
-        <div>
+        <div style={{ width: "100%" }}>
           <Row>
-            <Col md={8} lg={8}>
+            <Col sm={12} md={8} lg={8}>
               <h2 className="my-2">OUR CONSULTANCY</h2>
               <p className="text-muted mt-3">
                 A successful fashion consultant should have excellent

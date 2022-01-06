@@ -7,7 +7,7 @@ const PercentBanner = () => {
   return (
     <div className="my-5">
       <Container>
-        <div>
+        <div width="100%">
           <div className="box">
             <Row>
               <Col lg={8}>

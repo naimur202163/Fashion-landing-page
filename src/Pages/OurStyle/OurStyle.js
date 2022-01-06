@@ -39,17 +39,17 @@ const OurStyle = () => {
                           borderRadius: "0.7rem",
                         }}
                       >
-                        <h5 className="pt-1">Papadon tprea</h5>
+                        <h5 className="p-1">Papadon</h5>
                       </div>
                     </Col>
                     <Col>
-                      <h5 className="pt-1"> LABEL 2</h5>
+                      <h5 className="p-1"> LABEL 2</h5>
                     </Col>
                     <Col>
-                      <h5 className="pt-1"> LABEL 3</h5>
+                      <h5 className="p-1"> LABEL 3</h5>
                     </Col>
                     <Col>
-                      <h5 className="pt-1"> LABEL 4</h5>
+                      <h5 className="p-1"> LABEL 4</h5>
                     </Col>
                   </Row>
                 </div>
